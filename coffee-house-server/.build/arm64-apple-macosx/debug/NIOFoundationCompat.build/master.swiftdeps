@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "3b154707b910d9fbe79f94631ab51f28"
+build_time: [1729348831, 844350000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": [1729348779, 139793837]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/Codable+ByteBuffer.swift": [1729348779, 139938799]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/JSONSerialization+ByteBuffer.swift": [1729348779, 139999717]

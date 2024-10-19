@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "7f25937f47152f44ce4a01047e067d8e"
+build_time: [1729348788, 578452000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-numerics/Sources/RealModule/AlgebraicField.swift": [1729348780, 348486525]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-numerics/Sources/RealModule/ApproximateEquality.swift": [1729348780, 348773031]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-numerics/Sources/RealModule/AugmentedArithmetic.swift": [1729348780, 348851907]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-numerics/Sources/RealModule/Double+Real.swift": [1729348780, 349032911]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-numerics/Sources/RealModule/ElementaryFunctions.swift": [1729348780, 349175455]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-numerics/Sources/RealModule/Float+Real.swift": [1729348780, 349251957]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-numerics/Sources/RealModule/Float16+Real.swift": [1729348780, 349348042]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-numerics/Sources/RealModule/Float80+Real.swift": [1729348780, 349441002]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-numerics/Sources/RealModule/Real.swift": [1729348780, 349625839]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-numerics/Sources/RealModule/RealFunctions.swift": [1729348780, 349709924]

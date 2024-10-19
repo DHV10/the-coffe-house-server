@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "da79e6b3ddd3101195d5d5943dee6712"
+build_time: [1729348808, 177077000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Codable.swift": [1729348778, 888276179]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Collection.swift": [1729348778, 888424182]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomReflectable.swift": [1729348778, 888530601]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Descriptions.swift": [1729348778, 888624979]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Equatable.swift": [1729348778, 888710606]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+ExpressibleByArrayLiteral.swift": [1729348778, 888784483]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Extras.swift": [1729348778, 888902527]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Hashable.swift": [1729348778, 888976404]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Testing.swift": [1729348778, 889056198]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque._Storage.swift": [1729348778, 889179326]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque._UnsafeHandle.swift": [1729348778, 889287870]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque.swift": [1729348778, 890630903]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBuffer.swift": [1729348778, 891036622]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBufferHeader.swift": [1729348778, 891122332]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/DequeModule/_DequeSlot.swift": [1729348778, 891215543]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/DequeModule/_UnsafeWrappedBuffer.swift": [1729348778, 891329170]

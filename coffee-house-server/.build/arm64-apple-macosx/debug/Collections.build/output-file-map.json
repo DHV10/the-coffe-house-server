@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/Collections.build/master.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/Collections/Collections.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/Collections.build/Collections.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/Collections.build/Collections.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/Collections.build/Collections~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/Collections.build/Collections.swiftdeps"
+  }
+}

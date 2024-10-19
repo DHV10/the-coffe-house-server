@@ -1,0 +1,4 @@
+module NIOHTTP2 {
+    header "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/NIOHTTP2.build/NIOHTTP2-Swift.h"
+    requires objc
+}

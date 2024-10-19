@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/NIOHTTPTypes.build/master.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPTypes/NIOHTTPTypes.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes.swiftdeps"
+  }
+}

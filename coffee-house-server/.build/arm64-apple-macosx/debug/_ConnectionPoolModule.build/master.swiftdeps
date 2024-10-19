@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "493af7aeb47ff45c482784af094f771a"
+build_time: [1729348825, 80295000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/ConnectionIDGenerator.swift": [1729348778, 79298858]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/ConnectionPool.swift": [1729348778, 79550323]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/ConnectionPoolError.swift": [1729348778, 79638909]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/ConnectionPoolObservabilityDelegate.swift": [1729348778, 79709452]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/ConnectionRequest.swift": [1729348778, 79773037]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/Max2Sequence.swift": [1729348778, 79839581]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/NIOLock.swift": [1729348778, 79937417]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/NIOLockedValueBox.swift": [1729348778, 80003669]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/NoKeepAliveBehavior.swift": [1729348778, 80092796]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/PoolStateMachine+ConnectionGroup.swift": [1729348778, 80191424]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/PoolStateMachine+ConnectionState.swift": [1729348778, 80304302]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/PoolStateMachine+RequestQueue.swift": [1729348778, 80388054]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/PoolStateMachine.swift": [1729348778, 80472890]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-nio/Sources/ConnectionPoolModule/TinyFastSequence.swift": [1729348778, 80576476]

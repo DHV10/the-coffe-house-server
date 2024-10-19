@@ -1,0 +1,4 @@
+module CoreMetrics {
+    header "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/CoreMetrics.build/CoreMetrics-Swift.h"
+    requires objc
+}

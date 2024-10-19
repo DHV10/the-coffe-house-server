@@ -1,0 +1,4 @@
+module CNIOLLHTTP {
+    umbrella header "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/CNIOLLHTTP/include/CNIOLLHTTP.h"
+    export *
+}

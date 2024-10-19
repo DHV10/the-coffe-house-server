@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "73bd2cb92e905a07e3cf3635af3290d7"
+build_time: [1729348835, 569852000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/DynamicHeaderTable.swift": [1729348777, 93966160]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKDecoder.swift": [1729348777, 94066246]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKEncoder.swift": [1729348777, 94714308]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKErrors.swift": [1729348777, 94814686]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKHeader.swift": [1729348777, 95123236]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HeaderTables.swift": [1729348777, 95283450]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanCoding.swift": [1729348777, 95433246]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanTables.swift": [1729348777, 95845175]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IndexedHeaderTable.swift": [1729348777, 96051390]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IntegerCoding.swift": [1729348777, 96190060]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/StaticHeaderTable.swift": [1729348777, 96376358]

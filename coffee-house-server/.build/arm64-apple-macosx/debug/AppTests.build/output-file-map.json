@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/AppTests.build/master.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/Tests/AppTests/AppTests.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/AppTests.build/AppTests.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/AppTests.build/AppTests.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/AppTests.build/AppTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/AppTests.build/AppTests.swiftdeps"
+  }
+}

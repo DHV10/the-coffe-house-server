@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "92c7545c7b2fd77e1274ae2cd8845832"
+build_time: [1729348807, 129470000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/HeapModule/Heap+Descriptions.swift": [1729348778, 905637565]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/HeapModule/Heap+ExpressibleByArrayLiteral.swift": [1729348778, 905701025]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/HeapModule/Heap+Invariants.swift": [1729348778, 905948739]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/HeapModule/Heap+UnsafeHandle.swift": [1729348778, 906045241]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/HeapModule/Heap.swift": [1729348778, 906146452]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/HeapModule/_HeapNode.swift": [1729348778, 906609422]

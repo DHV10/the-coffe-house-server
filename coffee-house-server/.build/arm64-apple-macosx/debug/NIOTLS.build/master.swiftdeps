@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "14a089c83c21862393bd07154a358772"
+build_time: [1729348831, 800733000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1729348779, 154855583]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIOTLS/NIOTypedApplicationProtocolNegotiationHandler.swift": [1729348779, 154966127]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIOTLS/ProtocolNegotiationHandlerStateMachine.swift": [1729348779, 155064213]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": [1729348779, 155155174]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": [1729348779, 155238426]

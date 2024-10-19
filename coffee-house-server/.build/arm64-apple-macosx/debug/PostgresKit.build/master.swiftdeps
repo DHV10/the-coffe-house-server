@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "82aa9fefd0b27ae38a5f9d358308d1cd"
+build_time: [1729348842, 648937000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-kit/Sources/PostgresKit/ConnectionPool+Postgres.swift": [1729348776, 949075847]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresColumnType.swift": [1729348776, 949261436]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresConfiguration.swift": [1729348776, 949338021]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresConnectionSource+PostgresConfiguration.swift": [1729348776, 949400648]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDataDecoder.swift": [1729348776, 949489485]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDataEncoder.swift": [1729348776, 949604530]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDatabase+SQL+Deprecated.swift": [1729348776, 949663115]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-kit/Sources/PostgresKit/Exports.swift": [1729348776, 950015042]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresConnectionSource.swift": [1729348776, 950082835]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDataTranslation.swift": [1729348776, 950196922]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDatabase+SQL.swift": [1729348776, 950281050]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDialect.swift": [1729348776, 950355344]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresRow+SQL.swift": [1729348776, 950428763]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/postgres-kit/Sources/PostgresKit/SQLPostgresConfiguration.swift": [1729348776, 950516182]

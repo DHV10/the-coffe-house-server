@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "b30d496042ce2d86cc81200f5cb8cb66"
+build_time: [1729348826, 18457000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOAtomic.swift": [1729348779, 109330294]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOLock.swift": [1729348779, 109610593]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOLockedValueBox.swift": [1729348779, 109730846]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": [1729348779, 109839682]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": [1729348779, 109961560]

@@ -1,0 +1,4 @@
+module NIOPosix {
+    header "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/NIOPosix.build/NIOPosix-Swift.h"
+    requires objc
+}

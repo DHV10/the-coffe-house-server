@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "5b98f42ae7961e38d54e8cbc708df991"
+build_time: [1729348829, 588916000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIOEmbedded/AsyncTestingChannel.swift": [1729348779, 132876416]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIOEmbedded/AsyncTestingEventLoop.swift": [1729348779, 132992127]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIOEmbedded/Embedded.swift": [1729348779, 133585434]

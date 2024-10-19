@@ -1,0 +1,4 @@
+module CNIOAtomics {
+    umbrella header "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+    export *
+}

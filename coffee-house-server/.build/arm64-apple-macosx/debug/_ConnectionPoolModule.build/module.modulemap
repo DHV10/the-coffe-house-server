@@ -1,0 +1,4 @@
+module _ConnectionPoolModule {
+    header "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/_ConnectionPoolModule.build/_ConnectionPoolModule-Swift.h"
+    requires objc
+}

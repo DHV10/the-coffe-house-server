@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/CoreMetrics.build/master.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-metrics/Sources/CoreMetrics/Locks.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/CoreMetrics.build/Locks.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/CoreMetrics.build/Locks.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/CoreMetrics.build/Locks~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/CoreMetrics.build/Locks.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-metrics/Sources/CoreMetrics/Metrics.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/CoreMetrics.build/Metrics.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/CoreMetrics.build/Metrics.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/CoreMetrics.build/Metrics~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/CoreMetrics.build/Metrics.swiftdeps"
+  }
+}

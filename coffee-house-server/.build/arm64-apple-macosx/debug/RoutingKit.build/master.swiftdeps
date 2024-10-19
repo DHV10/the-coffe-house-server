@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "77c483522226bf9b30e9a1f217aee68a"
+build_time: [1729348807, 804261000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/routing-kit/Sources/RoutingKit/AnyRouter.swift": [1729348778, 457840569]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/routing-kit/Sources/RoutingKit/Parameters.swift": [1729348778, 458181160]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/routing-kit/Sources/RoutingKit/PathComponent.swift": [1729348778, 458246537]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/routing-kit/Sources/RoutingKit/Router.swift": [1729348778, 458400082]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/routing-kit/Sources/RoutingKit/TrieRouter.swift": [1729348778, 458501168]

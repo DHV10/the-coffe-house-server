@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "213f6b9de06b2c502f6906c2f16372a5"
+build_time: [1729348846, 518664000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/DatabaseID+PostgreSQL.swift": [1729348778, 16887656]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/Deprecations/FluentPostgresConfiguration+Deprecated.swift": [1729348778, 17036327]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/Exports.swift": [1729348778, 17368794]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/FluentPostgresConfiguration.swift": [1729348778, 17443546]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/FluentPostgresDatabase.swift": [1729348778, 17537632]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/FluentPostgresDriver.swift": [1729348778, 17660302]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/PostgresConverterDelegate.swift": [1729348778, 17728512]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/PostgresError+Database.swift": [1729348778, 17854308]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/PostgresRow+Database.swift": [1729348778, 17920351]

@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "7f18d1747ac87aadd325f94c7c19d15a"
+build_time: [1729348788, 638299000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-log/Sources/Logging/Locks.swift": [1729348780, 284565836]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-log/Sources/Logging/LogHandler.swift": [1729348780, 284701589]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-log/Sources/Logging/Logging.swift": [1729348780, 285037138]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-log/Sources/Logging/MetadataProvider.swift": [1729348780, 285136056]

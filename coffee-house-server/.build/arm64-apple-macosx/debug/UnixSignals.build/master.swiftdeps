@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "6704f8aaf165bcf5ebe38b23a1637462"
+build_time: [1729348808, 282389000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-service-lifecycle/Sources/UnixSignals/UnixSignal.swift": [1729348780, 41996605]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-service-lifecycle/Sources/UnixSignals/UnixSignalsSequence.swift": [1729348780, 42075399]

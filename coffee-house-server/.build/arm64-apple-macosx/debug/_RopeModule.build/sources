@@ -1,0 +1,76 @@
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Builder.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Contents.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Debugging.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Index.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Ingester.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Invariants.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Iterators.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Metrics.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Summary.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString.swift
+'/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Append and Insert.swift'
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Breaks.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Counts.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Description.swift
+'/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Indexing by Characters.swift'
+'/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Indexing by UTF16.swift'
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+RopeElement.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Splitting.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+BidirectionalCollection.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+Comparable.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+CustomDebugStringConvertible.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+CustomStringConvertible.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+Equatable.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+ExpressibleByStringLiteral.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+Hashing.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+LosslessStringConvertible.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+RangeReplaceableCollection.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+Sequence.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+TextOutputStream.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Append.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Initializers.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Insert.swift
+'/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Managing Breaks.swift'
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+RemoveSubrange.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+ReplaceSubrange.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Split.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/Range+BigString.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigString+UTF16View.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigString+UTF8View.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigString+UnicodeScalarView.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigSubstring+UTF16View.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigSubstring+UTF8View.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigSubstring+UnicodeScalarView.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigSubstring.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+Builder.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+Debugging.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+Invariants.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+_Node.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+_Storage.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+_UnmanagedLeaf.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+_UnsafeHandle.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/RopeElement.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/RopeMetric.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/RopeSummary.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/_RopeItem.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/_RopePath.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/_RopeVersion.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Conformances/Rope+Collection.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Conformances/Rope+Index.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Conformances/Rope+Sequence.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Append.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Extract.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Find.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+ForEachWhile.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Insert.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Join.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+MutatingForEach.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Remove.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+RemoveSubrange.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Split.swift
+'/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Utilities/Optional Utilities.swift'
+'/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Utilities/String Utilities.swift'
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Utilities/String.Index+ABI.swift
+/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-collections/Sources/RopeModule/Utilities/_CharacterRecognizer.swift

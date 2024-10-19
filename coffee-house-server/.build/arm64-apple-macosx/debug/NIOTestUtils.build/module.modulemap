@@ -1,0 +1,4 @@
+module NIOTestUtils {
+    header "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/NIOTestUtils-Swift.h"
+    requires objc
+}

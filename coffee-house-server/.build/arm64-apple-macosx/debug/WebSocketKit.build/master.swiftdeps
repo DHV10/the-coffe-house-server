@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "3e25f0ea4d0366d372fdfe9c1feb28a9"
+build_time: [1729348839, 437214000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/Concurrency/WebSocket+Concurrency.swift": [1729348779, 894214825]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/Exports.swift": [1729348779, 894394746]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/HTTPUpgradeRequestHandler.swift": [1729348779, 894470456]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket+Connect.swift": [1729348779, 894635168]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket.swift": [1729348779, 894812797]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketClient.swift": [1729348779, 894917007]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketHandler.swift": [1729348779, 894996676]

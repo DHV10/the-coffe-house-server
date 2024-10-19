@@ -1,0 +1,4 @@
+module AsyncHTTPClient {
+    header "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/AsyncHTTPClient.build/AsyncHTTPClient-Swift.h"
+    requires objc
+}

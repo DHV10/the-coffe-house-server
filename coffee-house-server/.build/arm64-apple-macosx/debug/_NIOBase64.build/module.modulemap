@@ -1,0 +1,4 @@
+module _NIOBase64 {
+    header "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/_NIOBase64.build/_NIOBase64-Swift.h"
+    requires objc
+}

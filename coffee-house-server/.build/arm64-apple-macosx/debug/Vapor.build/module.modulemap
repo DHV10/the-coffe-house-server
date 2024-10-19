@@ -1,0 +1,4 @@
+module Vapor {
+    header "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/Vapor.build/Vapor-Swift.h"
+    requires objc
+}

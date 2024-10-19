@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "3aeb32418d5877a9f3ca2186da017618"
+build_time: [1729348807, 895823000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-metrics/Sources/Metrics/Metrics.swift": [1729348777, 807859290]

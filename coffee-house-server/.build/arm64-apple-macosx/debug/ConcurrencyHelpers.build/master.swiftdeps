@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "c4d9d49c99cae0f3a86bca2492c77bc4"
+build_time: [1729348805, 583640000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-service-lifecycle/Sources/ConcurrencyHelpers/Lock.swift": [1729348780, 40028603]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-service-lifecycle/Sources/ConcurrencyHelpers/LockedValueBox.swift": [1729348780, 40093480]

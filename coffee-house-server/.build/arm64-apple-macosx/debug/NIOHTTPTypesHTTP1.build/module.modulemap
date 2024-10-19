@@ -1,0 +1,4 @@
+module NIOHTTPTypesHTTP1 {
+    header "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/NIOHTTPTypesHTTP1.build/NIOHTTPTypesHTTP1-Swift.h"
+    requires objc
+}

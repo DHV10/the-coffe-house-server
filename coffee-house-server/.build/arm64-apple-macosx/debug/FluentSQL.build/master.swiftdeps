@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "282be3ab0f46b6a7e8d26d40fa856942"
+build_time: [1729348845, 699531000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-kit/Sources/FluentSQL/ConverterUtilities.swift": [1729348778, 215290649]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-kit/Sources/FluentSQL/DatabaseQuery+SQL.swift": [1729348778, 215381901]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-kit/Sources/FluentSQL/DatabaseSchema+SQL.swift": [1729348778, 215473737]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-kit/Sources/FluentSQL/Exports.swift": [1729348778, 215844789]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLDatabase+Model+Concurrency.swift": [1729348778, 215929041]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLDatabase+Model.swift": [1729348778, 216034169]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLJSONColumnPath+Deprecated.swift": [1729348778, 216145881]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLList+Deprecated.swift": [1729348778, 216252217]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLQualifiedTable+Deprecated.swift": [1729348778, 216333052]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLQueryConverter.swift": [1729348778, 216434264]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLSchemaConverter.swift": [1729348778, 216630227]

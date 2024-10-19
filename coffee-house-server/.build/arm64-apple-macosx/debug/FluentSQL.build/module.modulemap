@@ -1,0 +1,4 @@
+module FluentSQL {
+    header "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/FluentSQL.build/FluentSQL-Swift.h"
+    requires objc
+}

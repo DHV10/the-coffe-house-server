@@ -1,0 +1,4 @@
+module HTTPTypes {
+    header "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/HTTPTypes.build/HTTPTypes-Swift.h"
+    requires objc
+}

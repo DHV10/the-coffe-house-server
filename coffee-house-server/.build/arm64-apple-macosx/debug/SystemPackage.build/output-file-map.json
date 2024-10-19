@@ -1,0 +1,185 @@
+{
+  "": {
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/master.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/Errno.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Errno.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Errno.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Errno~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Errno.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/ErrnoWindows.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/ErrnoWindows.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/ErrnoWindows.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/ErrnoWindows~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/ErrnoWindows.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/FileDescriptor.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FileDescriptor.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FileDescriptor.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FileDescriptor~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FileDescriptor.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/FileHelpers.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FileHelpers.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FileHelpers.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FileHelpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FileHelpers.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/FileOperations.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FileOperations.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FileOperations.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FileOperations~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FileOperations.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/FilePath/FilePath.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePath.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePath.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePath~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePath.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/FilePath/FilePathComponentView.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathComponentView.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathComponentView.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathComponentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathComponentView.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/FilePath/FilePathComponents.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathComponents.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathComponents.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathComponents~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathComponents.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/FilePath/FilePathParsing.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathParsing.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathParsing.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathParsing~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathParsing.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/FilePath/FilePathString.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathString.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathString.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathString~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathString.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/FilePath/FilePathSyntax.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathSyntax.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathSyntax.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathSyntax~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathSyntax.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/FilePath/FilePathTemp.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathTemp.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathTemp.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathTemp~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathTemp.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/FilePath/FilePathTempPosix.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathTempPosix.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathTempPosix.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathTempPosix~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathTempPosix.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/FilePath/FilePathTempWindows.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathTempWindows.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathTempWindows.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathTempWindows~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathTempWindows.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/FilePath/FilePathWindows.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathWindows.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathWindows.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathWindows~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePathWindows.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/FilePermissions.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePermissions.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePermissions.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePermissions~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/FilePermissions.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/Internals/Backcompat.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Backcompat.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Backcompat.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Backcompat~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Backcompat.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/Internals/CInterop.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/CInterop.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/CInterop.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/CInterop~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/CInterop.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/Internals/Constants.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Constants.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Constants.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Constants~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Constants.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/Internals/Exports.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Exports.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Exports.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Exports.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/Internals/Mocking.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Mocking.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Mocking.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Mocking~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Mocking.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/Internals/RawBuffer.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/RawBuffer.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/RawBuffer.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/RawBuffer~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/RawBuffer.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/Internals/Syscalls.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Syscalls.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Syscalls.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Syscalls~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Syscalls.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/Internals/WindowsSyscallAdapters.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/WindowsSyscallAdapters.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/WindowsSyscallAdapters.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/WindowsSyscallAdapters~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/WindowsSyscallAdapters.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/MachPort.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/MachPort.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/MachPort.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/MachPort~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/MachPort.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/PlatformString.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/PlatformString.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/PlatformString.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/PlatformString~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/PlatformString.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/SystemString.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/SystemString.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/SystemString.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/SystemString~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/SystemString.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/Util+StringArray.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Util+StringArray.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Util+StringArray.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Util+StringArray~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Util+StringArray.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/Util.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Util.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Util.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Util~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/Util.swiftdeps"
+  },
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-system/Sources/System/UtilConsumers.swift": {
+    "dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/UtilConsumers.d",
+    "object": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/UtilConsumers.swift.o",
+    "swiftmodule": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/UtilConsumers~partial.swiftmodule",
+    "swift-dependencies": "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/arm64-apple-macosx/debug/SystemPackage.build/UtilConsumers.swiftdeps"
+  }
+}

@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "45a927795d093869384e6382e4594bc6"
+build_time: [1729348831, 355150000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-nio/Sources/NIO/Exports.swift": [1729348779, 108027470]

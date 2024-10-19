@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "aa7b773bb6e0b4d00b6e9c6ca6963158"
+build_time: [1729348849, 587915000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent/Sources/Fluent/Concurrency/FluentProvider+Concurrency.swift": [1729348777, 433586377]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent/Sources/Fluent/Concurrency/ModelCredentialsAuthenticatable+Concurrency.swift": [1729348777, 433656004]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent/Sources/Fluent/Concurrency/Pagination+Concurrency.swift": [1729348777, 433717089]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent/Sources/Fluent/Concurrency/Sessions+Concurrency.swift": [1729348777, 433782549]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent/Sources/Fluent/Exports.swift": [1729348777, 434086724]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent/Sources/Fluent/Fluent+Cache.swift": [1729348777, 434148517]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent/Sources/Fluent/Fluent+History.swift": [1729348777, 434211769]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent/Sources/Fluent/Fluent+Paginate.swift": [1729348777, 434275812]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent/Sources/Fluent/Fluent+Pagination.swift": [1729348777, 434356898]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent/Sources/Fluent/Fluent+Sessions.swift": [1729348777, 434571904]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent/Sources/Fluent/FluentProvider.swift": [1729348777, 434756492]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent/Sources/Fluent/MigrateCommand.swift": [1729348777, 434822077]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent/Sources/Fluent/ModelAuthenticatable.swift": [1729348777, 434895329]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent/Sources/Fluent/ModelCredentialsAuthenticatable.swift": [1729348777, 434966206]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent/Sources/Fluent/ModelTokenAuthenticatable.swift": [1729348777, 435034292]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/fluent/Sources/Fluent/PageLimit.swift": [1729348777, 435188087]

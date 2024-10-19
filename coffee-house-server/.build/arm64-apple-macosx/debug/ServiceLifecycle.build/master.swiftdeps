@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "258340a2123b4bd5a01bd8c50e0e1771"
+build_time: [1729348824, 749154000]
+inputs:
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/AsyncCancelOnGracefulShutdownSequence.swift": [1729348780, 40259817]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/AsyncGracefulShutdownSequence.swift": [1729348780, 40365069]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/CancellationWaiter.swift": [1729348780, 40870414]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/GracefulShutdown.swift": [1729348780, 41298590]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/Service.swift": [1729348780, 41370508]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ServiceGroup.swift": [1729348780, 41526887]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ServiceGroupConfiguration.swift": [1729348780, 41641223]
+  "/Users/dhv10/the-coffe-house-server/coffee-house-server/.build/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ServiceRunnerError.swift": [1729348780, 41724516]
