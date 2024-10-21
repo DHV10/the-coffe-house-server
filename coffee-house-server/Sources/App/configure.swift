@@ -9,5 +9,7 @@ public func configure(_ app: Application) async throws {
     // register routes
     app.databases.use(.postgres(hostname: "localhost", username: "postgres", password: "", database: "coffee_house_server"), as: .psql)
     app.migrations.add(CreateProfile())
+    app.migrations.add(CreateOrder())
+    app.migrations.add(CreateCoffee())
     try routes(app)
 }

@@ -13,8 +13,11 @@ struct CreateCoffee: Migration {
     func prepare(on database: any Database) -> EventLoopFuture<Void> {
         database.schema("coffees")
             .id()
-            .field("username", .string)
-            .field("phoneNumber", .string)
+            .field("image", .string)
+            .field("title", .string)
+            .field("about", .string)
+            .field("rate", .string)
+            .field("size", .array(of: .string))
             .create()
     }
     
