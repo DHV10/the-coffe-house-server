@@ -1,6 +1,6 @@
 //
 //  File.swift
-//  
+//
 //
 //  Created by Việt Dương Hoàng on 19/10/24.
 //
@@ -16,12 +16,17 @@ struct CreateCoffee: Migration {
             .field("image", .string)
             .field("title", .string)
             .field("about", .string)
+            .field("prize", .string)
             .field("rate", .string)
             .field("size", .array(of: .string))
+            .field("category", .string)
+            .field("isFavourite", .bool)
+            .field("quantity", .int)
             .create()
     }
-    
+
     func revert(on database: any Database) -> EventLoopFuture<Void> {
         database.schema("coffees").delete()
     }
 }
+

@@ -21,7 +21,10 @@ final class Profile: Model, Content {
     
     @Field(key: "phoneNumber")
     var phoneNumber: String
-    
+
+    @Children(for: \.$profile)
+    var orders: [Order]
+
     init() {}
     
     init(id: UUID? = nil, username: String, phoneNumber: String) {

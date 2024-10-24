@@ -1,6 +1,6 @@
 //
 //  File.swift
-//  
+//
 //
 //  Created by Việt Dương Hoàng on 19/10/24.
 //
@@ -10,7 +10,6 @@ import Vapor
 import Fluent
 
 final class Coffee: Model, Content {
-
     static let schema = "coffees"
 
     @ID(key: .id)
@@ -25,14 +24,23 @@ final class Coffee: Model, Content {
     @Field(key: "about")
     var about: String
 
+    @Field(key: "prize")
+    var prize: String
+
     @Field(key: "rate")
     var rate: String
 
     @Field(key: "size")
     var size: [String]
 
-    @Parent(key: "order_id")
-    var order: Order
+    @Field(key: "category")
+    var category: String
+
+    @Field(key: "isFavourite")
+    var isFavourite: Bool
+    
+    @Field(key: "quantity")
+    var quantity: Int
 
     init() {}
 
@@ -41,8 +49,12 @@ final class Coffee: Model, Content {
         image: String,
         title: String,
         about: String,
+        prize: String,
         rate: String,
-        size: [String]
+        size: [String],
+        category: String,
+        isFavourite: Bool,
+        quantity: Int
     ) {
         self.id = id
         self.image = image
@@ -50,5 +62,9 @@ final class Coffee: Model, Content {
         self.about = about
         self.rate = rate
         self.size = size
+        self.category = category
+        self.isFavourite = isFavourite
+        self.prize = prize
+        self.quantity = quantity
     }
 }

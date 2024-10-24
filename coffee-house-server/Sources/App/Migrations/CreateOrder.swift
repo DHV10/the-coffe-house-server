@@ -1,6 +1,6 @@
 //
 //  File.swift
-//  
+//
 //
 //  Created by Việt Dương Hoàng on 19/10/24.
 //
@@ -15,6 +15,8 @@ struct CreateOrder: Migration {
             .id()
             .field("paymentMethod", .string)
             .field("total", .string)
+            .field("listCoffee", .array(of: .string))
+            .field("profile_id", .uuid, .references("profiles", "id"))
             .create()
     }
     
